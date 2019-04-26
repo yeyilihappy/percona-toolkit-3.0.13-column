@@ -15,7 +15,7 @@ visit [http://www.percona.com/software/](http://www.percona.com/software/).
 
 本工具已支持：
 1. 列级的比较（已支持）
-2. 不支持主和备之间的比较，支持不同库（同为主库）之间表的比较（同样支持列过滤）
+2. 不止支持主和备之间的比较，支持不同库（同为主库）之间表的比较（同样支持列过滤）
 
 
 ## Installing
